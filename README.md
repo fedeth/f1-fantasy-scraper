@@ -1,1 +1,2 @@
-# f1-fantasy-scraper 
+# Formula1 Fantasy scraper
+ 
